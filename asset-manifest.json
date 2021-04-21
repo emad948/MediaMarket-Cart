@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/MediaMarket-Cart/static/css/main.be986e48.chunk.css",
+    "main.js": "/MediaMarket-Cart/static/js/main.9e3324cf.chunk.js",
+    "main.js.map": "/MediaMarket-Cart/static/js/main.9e3324cf.chunk.js.map",
+    "runtime-main.js": "/MediaMarket-Cart/static/js/runtime-main.a0687630.js",
+    "runtime-main.js.map": "/MediaMarket-Cart/static/js/runtime-main.a0687630.js.map",
+    "static/js/2.1d915460.chunk.js": "/MediaMarket-Cart/static/js/2.1d915460.chunk.js",
+    "static/js/2.1d915460.chunk.js.map": "/MediaMarket-Cart/static/js/2.1d915460.chunk.js.map",
+    "index.html": "/MediaMarket-Cart/index.html",
+    "precache-manifest.1c124c5231b089f5407d0f8267b91883.js": "/MediaMarket-Cart/precache-manifest.1c124c5231b089f5407d0f8267b91883.js",
+    "service-worker.js": "/MediaMarket-Cart/service-worker.js",
+    "static/css/main.be986e48.chunk.css.map": "/MediaMarket-Cart/static/css/main.be986e48.chunk.css.map",
+    "static/js/2.1d915460.chunk.js.LICENSE.txt": "/MediaMarket-Cart/static/js/2.1d915460.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a0687630.js",
+    "static/js/2.1d915460.chunk.js",
+    "static/css/main.be986e48.chunk.css",
+    "static/js/main.9e3324cf.chunk.js"
+  ]
+}
